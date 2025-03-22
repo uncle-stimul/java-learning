@@ -8,4 +8,3 @@
 | input.txt | output.txt |
 | --------- | ---------- |
 | qwertyuiopasdffghhj<br>qpoiuytredgfhfd<br>asdfghjjklvcvx<br>alkjghcdysdfgsr<br>pquytrgsdjdsa<br>akjhfgdghshhfuushvdfs | akjhfgdghshhfuushvdfs<br>alkjghcdysdfgsr<br>asdfghjjklvcvx<br>pquytrgsdjdsa<br>qpoiuytredgfhfd<br>qwertyuiopasdffghhj
-|
